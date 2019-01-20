@@ -104,3 +104,10 @@ ENV/
 # submission files
 submission.csv
 
+# checkpoints
+checkpoints/
+
+# temporary files
+tmp/
+temp/
+
