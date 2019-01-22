@@ -101,8 +101,10 @@ ENV/
 # mypy
 .mypy_cache/
 
-# submission files
-submission.csv
+# data files for input or submission
+*.tar.gz
+*.zip
+*.csv
 
 # checkpoints
 checkpoints/
